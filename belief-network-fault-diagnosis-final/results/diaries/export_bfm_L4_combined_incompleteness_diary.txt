@@ -1,0 +1,1014 @@
+Exporting BFM L4 results: combined incompleteness
+
+============================================================
+Scenario 15 - L4 combined incompleteness
+============================================================
+Temporary L4 UIL written for scenario 15
+Converting temporary L4 UIL to BFM model...
+Loading temporary L4 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I1  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I2  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 57 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I3  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 58 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I4  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 59 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I5  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 60 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I6  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 61 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I7  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 62 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I8  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 63 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 64 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 65 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MB  | value  '
+    '-------------'
+    'v0  | 1.0000 '
+    '-------------'
+
+Solving PSF...
+Belief # 176 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  '
+    '-------------'
+    '****| 1.0000 '
+    '-------------'
+
+Solving Batt...
+Belief # 287 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  '
+    '--------------'
+    'exh  | 1.0000 '
+    '--------------'
+
+Solving SW1...
+Belief # 398 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW2...
+Belief # 509 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW3...
+Belief # 620 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW4...
+Belief # 731 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW5...
+Belief # 842 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW6...
+Belief # 953 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW7...
+Belief # 1064 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW8...
+Belief # 1175 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving C1...
+Belief # 1286 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C2...
+Belief # 1397 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C3...
+Belief # 1508 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C4...
+Belief # 1619 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C5...
+Belief # 1730 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C6...
+Belief # 1841 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C7...
+Belief # 1952 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C8...
+Belief # 2063 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving CL...
+Belief # 2174 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving LF...
+Belief # 2285 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  '
+    '-------------'
+    'ok  | 0.9850 '
+    '-------------'
+    'bro | 0.0150 '
+    '-------------'
+
+
+============================================================
+Scenario 16 - L4 combined incompleteness
+============================================================
+Temporary L4 UIL written for scenario 16
+Converting temporary L4 UIL to BFM model...
+Loading temporary L4 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I1  | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I2  | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 57 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I4  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 58 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I5  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 59 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I6  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 60 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I7  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 61 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I8  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 62 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 63 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 64 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MB  | value  '
+    '-------------'
+    'v12 | 1.0000 '
+    '-------------'
+
+Belief # 65 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MPS  | value  '
+    '--------------'
+    'high | 1.0000 '
+    '--------------'
+
+Solving PSF...
+Belief # 176 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  | n-mass '
+    '----------------------'
+    'no  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving Batt...
+Belief # 287 in m
+
+ans =
+
+  6×23 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  | n-mass '
+    '-----------------------'
+    'good | 0.91540| 1.0000 '
+    '-----------------------'
+    '     | 0.08460|        '
+    '-----------------------'
+
+Solving SW1...
+Belief # 398 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  | n-mass '
+    '----------------------'
+    'ok  | 0.87878| 0.9600 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+    '****| 0.03662| 0.0400 '
+    '----------------------'
+
+Solving SW2...
+Belief # 509 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  | n-mass '
+    '----------------------'
+    'ok  | 0.73232| 0.8000 '
+    '----------------------'
+    '****| 0.18308| 0.2000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW3...
+Belief # 620 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW4...
+Belief # 731 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW5...
+Belief # 842 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW6...
+Belief # 953 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW7...
+Belief # 1064 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW8...
+Belief # 1175 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C1...
+Belief # 1286 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.87878| 0.9600 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+    '****| 0.03662| 0.0400 '
+    '----------------------'
+
+Solving C2...
+Belief # 1397 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.73232| 0.8000 '
+    '----------------------'
+    '****| 0.18308| 0.2000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C3...
+Belief # 1508 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C4...
+Belief # 1619 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C5...
+Belief # 1730 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C6...
+Belief # 1841 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C7...
+Belief # 1952 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C8...
+Belief # 2063 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving CL...
+Belief # 2174 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving LF...
+Belief # 2285 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.90167| 0.9850 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+    'bro | 0.01373| 0.0150 '
+    '----------------------'
+
+Saved BFM L4 results to: runs/bfm_L4_combined_incompleteness_results.csv
+Top 10 results per scenario by belief:
+Scenario 15
+    <strong>scenario_id</strong>                <strong>level</strong>                 <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>______________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        15         {'L4_combined_incompleteness'}    {'F_battery'}    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  1                    1         
+        15         {'L4_combined_incompleteness'}    {'F_sw_1'   }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  2                    3         
+        15         {'L4_combined_incompleteness'}    {'F_sw_2'   }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  3                    4         
+        15         {'L4_combined_incompleteness'}    {'F_sw_3'   }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  4                    5         
+        15         {'L4_combined_incompleteness'}    {'F_sw_4'   }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  5                    6         
+        15         {'L4_combined_incompleteness'}    {'F_sw_5'   }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  6                    7         
+        15         {'L4_combined_incompleteness'}    {'F_sw_6'   }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  7                    8         
+        15         {'L4_combined_incompleteness'}    {'F_sw_7'   }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  8                    9         
+        15         {'L4_combined_incompleteness'}    {'F_sw_8'   }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                  9                   10         
+        15         {'L4_combined_incompleteness'}    {'F_cable_1'}    {'broken'   }     {'C1'  }        {'bro'}         0.02         0.02          0            0                 10                   11         
+
+Scenario 16
+    <strong>scenario_id</strong>                <strong>level</strong>                 <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>______________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        16         {'L4_combined_incompleteness'}    {'F_lamp'   }     {'broken'  }     {'LF' }        {'bro'}        0.015        0.015          0          0.0846               1                   18         
+        16         {'L4_combined_incompleteness'}    {'F_sw_3'   }     {'detached'}     {'SW3'}        {'det'}            0            1          1          0.0846               2                    1         
+        16         {'L4_combined_incompleteness'}    {'F_sw_4'   }     {'detached'}     {'SW4'}        {'det'}            0            1          1          0.0846               3                    2         
+        16         {'L4_combined_incompleteness'}    {'F_sw_5'   }     {'detached'}     {'SW5'}        {'det'}            0            1          1          0.0846               4                    3         
+        16         {'L4_combined_incompleteness'}    {'F_sw_6'   }     {'detached'}     {'SW6'}        {'det'}            0            1          1          0.0846               5                    4         
+        16         {'L4_combined_incompleteness'}    {'F_sw_7'   }     {'detached'}     {'SW7'}        {'det'}            0            1          1          0.0846               6                    5         
+        16         {'L4_combined_incompleteness'}    {'F_sw_8'   }     {'detached'}     {'SW8'}        {'det'}            0            1          1          0.0846               7                    6         
+        16         {'L4_combined_incompleteness'}    {'F_cable_3'}     {'broken'  }     {'C3' }        {'bro'}            0            1          1          0.0846               8                    7         
+        16         {'L4_combined_incompleteness'}    {'F_cable_4'}     {'broken'  }     {'C4' }        {'bro'}            0            1          1          0.0846               9                    8         
+        16         {'L4_combined_incompleteness'}    {'F_cable_5'}     {'broken'  }     {'C5' }        {'bro'}            0            1          1          0.0846              10                    9         
+
+Top 10 results per scenario by plausibility:
+Scenario 15
+    <strong>scenario_id</strong>                <strong>level</strong>                  <strong>bn_fault_var</strong>      <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>______________________________</strong>    <strong>_______________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        15         {'L4_combined_incompleteness'}    {'F_battery'  }    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  1                    1         
+        15         {'L4_combined_incompleteness'}    {'F_PSU_short'}    {'yes'      }     {'PSF' }        {'yes'}            0            1          1            0                 20                    2         
+        15         {'L4_combined_incompleteness'}    {'F_sw_1'     }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  2                    3         
+        15         {'L4_combined_incompleteness'}    {'F_sw_2'     }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  3                    4         
+        15         {'L4_combined_incompleteness'}    {'F_sw_3'     }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  4                    5         
+        15         {'L4_combined_incompleteness'}    {'F_sw_4'     }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  5                    6         
+        15         {'L4_combined_incompleteness'}    {'F_sw_5'     }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  6                    7         
+        15         {'L4_combined_incompleteness'}    {'F_sw_6'     }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  7                    8         
+        15         {'L4_combined_incompleteness'}    {'F_sw_7'     }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  8                    9         
+        15         {'L4_combined_incompleteness'}    {'F_sw_8'     }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                  9                   10         
+
+Scenario 16
+    <strong>scenario_id</strong>                <strong>level</strong>                 <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>______________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        16         {'L4_combined_incompleteness'}    {'F_sw_3'   }     {'detached'}     {'SW3'}        {'det'}          0            1            1          0.0846               2                    1         
+        16         {'L4_combined_incompleteness'}    {'F_sw_4'   }     {'detached'}     {'SW4'}        {'det'}          0            1            1          0.0846               3                    2         
+        16         {'L4_combined_incompleteness'}    {'F_sw_5'   }     {'detached'}     {'SW5'}        {'det'}          0            1            1          0.0846               4                    3         
+        16         {'L4_combined_incompleteness'}    {'F_sw_6'   }     {'detached'}     {'SW6'}        {'det'}          0            1            1          0.0846               5                    4         
+        16         {'L4_combined_incompleteness'}    {'F_sw_7'   }     {'detached'}     {'SW7'}        {'det'}          0            1            1          0.0846               6                    5         
+        16         {'L4_combined_incompleteness'}    {'F_sw_8'   }     {'detached'}     {'SW8'}        {'det'}          0            1            1          0.0846               7                    6         
+        16         {'L4_combined_incompleteness'}    {'F_cable_3'}     {'broken'  }     {'C3' }        {'bro'}          0            1            1          0.0846               8                    7         
+        16         {'L4_combined_incompleteness'}    {'F_cable_4'}     {'broken'  }     {'C4' }        {'bro'}          0            1            1          0.0846               9                    8         
+        16         {'L4_combined_incompleteness'}    {'F_cable_5'}     {'broken'  }     {'C5' }        {'bro'}          0            1            1          0.0846              10                    9         
+        16         {'L4_combined_incompleteness'}    {'F_cable_6'}     {'broken'  }     {'C6' }        {'bro'}          0            1            1          0.0846              11                   10         
+

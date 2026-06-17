@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Belief Networks for Fault Diagnosis under Incomplete Information: Implementation and Results Repository"
+authors:
+  - family-names: "Garcia-Legaz Levi"
+    given-names: "Pablo"
+year: 2026
+message: "If you use this repository, please cite the accompanying thesis and this repository."

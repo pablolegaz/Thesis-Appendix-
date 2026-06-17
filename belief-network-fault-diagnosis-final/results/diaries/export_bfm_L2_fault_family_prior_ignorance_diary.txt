@@ -1,0 +1,1944 @@
+Exporting BFM L2 results: scenario-specific fault-family prior ignorance
+
+============================================================
+Scenario 7 - L2 scenario-specific fault-family prior ignorance
+============================================================
+Temporary L2 UIL written for scenario 7
+Converting temporary L2 UIL to BFM model...
+Loading temporary L2 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I1  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I2  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 57 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I3  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 58 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I4  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 59 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I5  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 60 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I6  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 61 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I7  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 62 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I8  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 63 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 64 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 65 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MB  | value  '
+    '-------------'
+    'v0  | 1.0000 '
+    '-------------'
+
+Belief # 66 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MPS  | value  '
+    '--------------'
+    'high | 1.0000 '
+    '--------------'
+
+Solving PSF...
+Belief # 178 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  '
+    '-------------'
+    'no  | 1.0000 '
+    '-------------'
+
+Solving Batt...
+Belief # 290 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  '
+    '--------------'
+    'exh  | 1.0000 '
+    '--------------'
+
+Solving SW1...
+Belief # 402 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW2...
+Belief # 514 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW3...
+Belief # 626 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW4...
+Belief # 738 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW5...
+Belief # 850 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW6...
+Belief # 962 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW7...
+Belief # 1074 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW8...
+Belief # 1186 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving C1...
+Belief # 1298 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C2...
+Belief # 1410 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C3...
+Belief # 1522 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C4...
+Belief # 1634 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C5...
+Belief # 1746 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C6...
+Belief # 1858 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C7...
+Belief # 1970 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C8...
+Belief # 2082 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving CL...
+Belief # 2194 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving LF...
+Belief # 2306 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  '
+    '-------------'
+    'ok  | 0.9850 '
+    '-------------'
+    'bro | 0.0150 '
+    '-------------'
+
+
+============================================================
+Scenario 8 - L2 scenario-specific fault-family prior ignorance
+============================================================
+Temporary L2 UIL written for scenario 8
+Converting temporary L2 UIL to BFM model...
+Loading temporary L2 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I1  | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I2  | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 57 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I3  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 58 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I4  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 59 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I5  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 60 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I6  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 61 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I7  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 62 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I8  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 63 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 64 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 65 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MB  | value  '
+    '-------------'
+    'v12 | 1.0000 '
+    '-------------'
+
+Belief # 66 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MPS  | value  '
+    '--------------'
+    'high | 1.0000 '
+    '--------------'
+
+Solving PSF...
+Belief # 178 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  | n-mass '
+    '----------------------'
+    'no  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving Batt...
+Belief # 290 in m
+
+ans =
+
+  6×23 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  | n-mass '
+    '-----------------------'
+    'good | 0.91540| 1.0000 '
+    '-----------------------'
+    '     | 0.08460|        '
+    '-----------------------'
+
+Solving SW1...
+Belief # 402 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  | n-mass '
+    '----------------------'
+    'ok  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW2...
+Belief # 514 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  | n-mass '
+    '----------------------'
+    'ok  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW3...
+Belief # 626 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW4...
+Belief # 738 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW5...
+Belief # 850 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW6...
+Belief # 962 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW7...
+Belief # 1074 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving SW8...
+Belief # 1186 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C1...
+Belief # 1298 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C2...
+Belief # 1410 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C3...
+Belief # 1522 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C4...
+Belief # 1634 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C5...
+Belief # 1746 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C6...
+Belief # 1858 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C7...
+Belief # 1970 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving C8...
+Belief # 2082 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving CL...
+Belief # 2194 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  | n-mass '
+    '----------------------'
+    '****| 0.91540| 1.0000 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+
+Solving LF...
+Belief # 2306 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.90167| 0.9850 '
+    '----------------------'
+    '    | 0.08460|        '
+    '----------------------'
+    'bro | 0.01373| 0.0150 '
+    '----------------------'
+
+
+============================================================
+Scenario 11 - L2 scenario-specific fault-family prior ignorance
+============================================================
+Temporary L2 UIL written for scenario 11
+Converting temporary L2 UIL to BFM model...
+Loading temporary L2 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'on  | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Solving PSF...
+Belief # 158 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  | n-mass '
+    '----------------------'
+    'no  | 0.91540| 0.99973'
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+    'yes | 0.00025| 0.00027'
+    '----------------------'
+
+Solving Batt...
+Belief # 260 in m
+
+ans =
+
+  6×23 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  | n-mass '
+    '-----------------------'
+    'good | 0.91565| 1.0000 '
+    '-----------------------'
+    '     | 0.08435|        '
+    '-----------------------'
+
+Solving SW1...
+Belief # 362 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW2...
+Belief # 464 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW3...
+Belief # 566 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW4...
+Belief # 668 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW5...
+Belief # 770 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW6...
+Belief # 872 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW7...
+Belief # 974 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving SW8...
+Belief # 1076 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C1...
+Belief # 1178 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C2...
+Belief # 1280 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C3...
+Belief # 1382 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C4...
+Belief # 1484 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C5...
+Belief # 1586 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C6...
+Belief # 1688 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C7...
+Belief # 1790 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving C8...
+Belief # 1892 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving CL...
+Belief # 1994 in m
+
+ans =
+
+  6×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  | n-mass '
+    '----------------------'
+    '****| 0.91565| 1.0000 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+
+Solving LF...
+Belief # 2096 in m
+
+ans =
+
+  8×22 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  | n-mass '
+    '----------------------'
+    'ok  | 0.90192| 0.9850 '
+    '----------------------'
+    '    | 0.08435|        '
+    '----------------------'
+    'bro | 0.01373| 0.0150 '
+    '----------------------'
+
+
+============================================================
+Scenario 14 - L2 scenario-specific fault-family prior ignorance
+============================================================
+Temporary L2 UIL written for scenario 14
+Converting temporary L2 UIL to BFM model...
+Loading temporary L2 BFM model...
+Embedding conditional beliefs...
+Input belief 1 is not a conditional belief.
+Input belief 4 is not a conditional belief.
+Input belief 5 is not a conditional belief.
+Input belief 6 is not a conditional belief.
+Input belief 7 is not a conditional belief.
+Input belief 8 is not a conditional belief.
+Input belief 9 is not a conditional belief.
+Input belief 10 is not a conditional belief.
+Input belief 11 is not a conditional belief.
+Input belief 12 is not a conditional belief.
+Input belief 13 is not a conditional belief.
+Input belief 14 is not a conditional belief.
+Input belief 15 is not a conditional belief.
+Input belief 16 is not a conditional belief.
+Input belief 17 is not a conditional belief.
+Input belief 18 is not a conditional belief.
+Input belief 19 is not a conditional belief.
+Input belief 20 is not a conditional belief.
+Input belief 21 is not a conditional belief.
+Input belief 22 is not a conditional belief.
+Input belief 23 is not a conditional belief.
+Input belief 24 is not a conditional belief.
+Input belief 25 is not a conditional belief.
+Input belief 26 is not a conditional belief.
+Input belief 27 is not a conditional belief.
+Input belief 28 is not a conditional belief.
+Input belief 29 is not a conditional belief.
+Input belief 30 is not a conditional belief.
+Input belief 31 is not a conditional belief.
+Input belief 32 is not a conditional belief.
+Input belief 33 is not a conditional belief.
+Input belief 34 is not a conditional belief.
+Input belief 35 is not a conditional belief.
+Input belief 36 is not a conditional belief.
+Input belief 37 is not a conditional belief.
+Input belief 38 is not a conditional belief.
+Input belief 39 is not a conditional belief.
+Input belief 40 is not a conditional belief.
+Input belief 41 is not a conditional belief.
+Input belief 42 is not a conditional belief.
+Input belief 43 is not a conditional belief.
+Input belief 44 is not a conditional belief.
+Input belief 45 is not a conditional belief.
+Input belief 46 is not a conditional belief.
+Input belief 47 is not a conditional belief.
+Input belief 48 is not a conditional belief.
+Input belief 49 is not a conditional belief.
+Input belief 50 is not a conditional belief.
+Input belief 51 is not a conditional belief.
+Keeping embedded beliefs...
+Number of embedded beliefs: 51
+Evidence used:
+Belief # 54 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OPS | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 55 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I1  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 56 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I2  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 57 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I3  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 58 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I4  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 59 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I5  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 60 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I6  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 61 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I7  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 62 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'I8  | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 63 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLa | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 64 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'OLi | value  '
+    '-------------'
+    'off | 1.0000 '
+    '-------------'
+
+Belief # 65 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MB  | value  '
+    '-------------'
+    'v0  | 1.0000 '
+    '-------------'
+
+Belief # 66 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'MPS  | value  '
+    '--------------'
+    'low  | 1.0000 '
+    '--------------'
+
+Solving PSF...
+Belief # 178 in m
+
+ans =
+
+  4×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'PSF | value  '
+    '-------------'
+    'yes | 1.0000 '
+    '-------------'
+
+Solving Batt...
+Belief # 290 in m
+
+ans =
+
+  4×14 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'Batt | value  '
+    '--------------'
+    'exh  | 1.0000 '
+    '--------------'
+
+Solving SW1...
+Belief # 402 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW1 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW2...
+Belief # 514 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW2 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW3...
+Belief # 626 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW3 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW4...
+Belief # 738 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW4 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW5...
+Belief # 850 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW5 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW6...
+Belief # 962 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW6 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW7...
+Belief # 1074 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW7 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving SW8...
+Belief # 1186 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'SW8 | value  '
+    '-------------'
+    'ok  | 0.9700 '
+    '-------------'
+    'det | 0.0300 '
+    '-------------'
+
+Solving C1...
+Belief # 1298 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C1  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C2...
+Belief # 1410 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C2  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C3...
+Belief # 1522 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C3  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C4...
+Belief # 1634 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C4  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C5...
+Belief # 1746 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C5  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C6...
+Belief # 1858 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C6  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C7...
+Belief # 1970 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C7  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving C8...
+Belief # 2082 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'C8  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving CL...
+Belief # 2194 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'CL  | value  '
+    '-------------'
+    'ok  | 0.9800 '
+    '-------------'
+    'bro | 0.0200 '
+    '-------------'
+
+Solving LF...
+Belief # 2306 in m
+
+ans =
+
+  6×13 <a href="matlab:helpPopup('char')" style="font-weight:bold">char</a> array
+
+    'LF  | value  '
+    '-------------'
+    'ok  | 0.9850 '
+    '-------------'
+    'bro | 0.0150 '
+    '-------------'
+
+Saved BFM L2 results to: runs/bfm_L2_fault_family_prior_ignorance_results.csv
+Top 10 results per scenario by belief:
+Scenario 7
+    <strong>scenario_id</strong>                   <strong>level</strong>                   <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+         7         {'L2_fault_family_prior_ignorance'}    {'F_battery'}    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  1                    1         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'   }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  2                    2         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'   }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  3                    3         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'   }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  4                    4         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'   }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  5                    5         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'   }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  6                    6         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'   }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  7                    7         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'   }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  8                    8         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'   }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                  9                    9         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_cable_1'}    {'broken'   }     {'C1'  }        {'bro'}         0.02         0.02          0            0                 10                   10         
+
+Scenario 8
+    <strong>scenario_id</strong>                   <strong>level</strong>                   <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+         8         {'L2_fault_family_prior_ignorance'}    {'F_lamp'   }     {'broken'  }     {'LF' }        {'bro'}        0.015        0.015          0          0.0846               1                   14         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'   }     {'detached'}     {'SW3'}        {'det'}            0            1          1          0.0846               2                    1         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'   }     {'detached'}     {'SW4'}        {'det'}            0            1          1          0.0846               3                    2         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'   }     {'detached'}     {'SW5'}        {'det'}            0            1          1          0.0846               4                    3         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'   }     {'detached'}     {'SW6'}        {'det'}            0            1          1          0.0846               5                    4         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'   }     {'detached'}     {'SW7'}        {'det'}            0            1          1          0.0846               6                    5         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'   }     {'detached'}     {'SW8'}        {'det'}            0            1          1          0.0846               7                    6         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_3'}     {'broken'  }     {'C3' }        {'bro'}            0            1          1          0.0846               8                    7         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_4'}     {'broken'  }     {'C4' }        {'bro'}            0            1          1          0.0846               9                    8         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_5'}     {'broken'  }     {'C5' }        {'bro'}            0            1          1          0.0846              10                    9         
+
+Scenario 11
+    <strong>scenario_id</strong>                   <strong>level</strong>                    <strong>bn_fault_var</strong>      <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>     <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_______________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>_______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        11         {'L2_fault_family_prior_ignorance'}    {'F_lamp'     }     {'broken'  }     {'LF' }        {'bro'}          0.015        0.015         0         0.08435               1                   18         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_PSU_short'}     {'yes'     }     {'PSF'}        {'yes'}        0.00027      0.00027         0         0.08435               2                   19         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'     }     {'detached'}     {'SW1'}        {'det'}              0            1         1         0.08435               3                    1         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'     }     {'detached'}     {'SW2'}        {'det'}              0            1         1         0.08435               4                    2         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'     }     {'detached'}     {'SW3'}        {'det'}              0            1         1         0.08435               5                    3         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'     }     {'detached'}     {'SW4'}        {'det'}              0            1         1         0.08435               6                    4         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'     }     {'detached'}     {'SW5'}        {'det'}              0            1         1         0.08435               7                    5         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'     }     {'detached'}     {'SW6'}        {'det'}              0            1         1         0.08435               8                    6         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'     }     {'detached'}     {'SW7'}        {'det'}              0            1         1         0.08435               9                    7         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'     }     {'detached'}     {'SW8'}        {'det'}              0            1         1         0.08435              10                    8         
+
+Scenario 14
+    <strong>scenario_id</strong>                   <strong>level</strong>                    <strong>bn_fault_var</strong>      <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_______________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        14         {'L2_fault_family_prior_ignorance'}    {'F_PSU_short'}    {'yes'      }     {'PSF' }        {'yes'}            1            1          0            0                  1                    1         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_battery'  }    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  2                    2         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'     }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  3                    3         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'     }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  4                    4         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'     }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  5                    5         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'     }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  6                    6         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'     }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  7                    7         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'     }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  8                    8         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'     }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  9                    9         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'     }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                 10                   10         
+
+Top 10 results per scenario by plausibility:
+Scenario 7
+    <strong>scenario_id</strong>                   <strong>level</strong>                   <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+         7         {'L2_fault_family_prior_ignorance'}    {'F_battery'}    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  1                    1         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'   }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  2                    2         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'   }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  3                    3         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'   }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  4                    4         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'   }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  5                    5         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'   }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  6                    6         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'   }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  7                    7         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'   }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  8                    8         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'   }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                  9                    9         
+         7         {'L2_fault_family_prior_ignorance'}    {'F_cable_1'}    {'broken'   }     {'C1'  }        {'bro'}         0.02         0.02          0            0                 10                   10         
+
+Scenario 8
+    <strong>scenario_id</strong>                   <strong>level</strong>                   <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'   }     {'detached'}     {'SW3'}        {'det'}          0            1            1          0.0846               2                    1         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'   }     {'detached'}     {'SW4'}        {'det'}          0            1            1          0.0846               3                    2         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'   }     {'detached'}     {'SW5'}        {'det'}          0            1            1          0.0846               4                    3         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'   }     {'detached'}     {'SW6'}        {'det'}          0            1            1          0.0846               5                    4         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'   }     {'detached'}     {'SW7'}        {'det'}          0            1            1          0.0846               6                    5         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'   }     {'detached'}     {'SW8'}        {'det'}          0            1            1          0.0846               7                    6         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_3'}     {'broken'  }     {'C3' }        {'bro'}          0            1            1          0.0846               8                    7         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_4'}     {'broken'  }     {'C4' }        {'bro'}          0            1            1          0.0846               9                    8         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_5'}     {'broken'  }     {'C5' }        {'bro'}          0            1            1          0.0846              10                    9         
+         8         {'L2_fault_family_prior_ignorance'}    {'F_cable_6'}     {'broken'  }     {'C6' }        {'bro'}          0            1            1          0.0846              11                   10         
+
+Scenario 11
+    <strong>scenario_id</strong>                   <strong>level</strong>                   <strong>bn_fault_var</strong>     <strong>bn_fault_state</strong>    <strong>bfm_var</strong>    <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_____________</strong>    <strong>______________</strong>    <strong>_______</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'   }     {'detached'}     {'SW1'}        {'det'}          0            1            1         0.08435               3                    1         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'   }     {'detached'}     {'SW2'}        {'det'}          0            1            1         0.08435               4                    2         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'   }     {'detached'}     {'SW3'}        {'det'}          0            1            1         0.08435               5                    3         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'   }     {'detached'}     {'SW4'}        {'det'}          0            1            1         0.08435               6                    4         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'   }     {'detached'}     {'SW5'}        {'det'}          0            1            1         0.08435               7                    5         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'   }     {'detached'}     {'SW6'}        {'det'}          0            1            1         0.08435               8                    6         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'   }     {'detached'}     {'SW7'}        {'det'}          0            1            1         0.08435               9                    7         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'   }     {'detached'}     {'SW8'}        {'det'}          0            1            1         0.08435              10                    8         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_cable_1'}     {'broken'  }     {'C1' }        {'bro'}          0            1            1         0.08435              11                    9         
+        11         {'L2_fault_family_prior_ignorance'}    {'F_cable_2'}     {'broken'  }     {'C2' }        {'bro'}          0            1            1         0.08435              12                   10         
+
+Scenario 14
+    <strong>scenario_id</strong>                   <strong>level</strong>                    <strong>bn_fault_var</strong>      <strong>bn_fault_state</strong>    <strong>bfm_var</strong>     <strong>bfm_fault_state</strong>    <strong>belief</strong>    <strong>plausibility</strong>    <strong>width</strong>    <strong>empty_set_mass</strong>    <strong>rank_by_belief</strong>    <strong>rank_by_plausibility</strong>
+    <strong>___________</strong>    <strong>___________________________________</strong>    <strong>_______________</strong>    <strong>______________</strong>    <strong>________</strong>    <strong>_______________</strong>    <strong>______</strong>    <strong>____________</strong>    <strong>_____</strong>    <strong>______________</strong>    <strong>______________</strong>    <strong>____________________</strong>
+
+        14         {'L2_fault_family_prior_ignorance'}    {'F_PSU_short'}    {'yes'      }     {'PSF' }        {'yes'}            1            1          0            0                  1                    1         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_battery'  }    {'exhausted'}     {'Batt'}        {'exh'}            1            1          0            0                  2                    2         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_1'     }    {'detached' }     {'SW1' }        {'det'}         0.03         0.03          0            0                  3                    3         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_2'     }    {'detached' }     {'SW2' }        {'det'}         0.03         0.03          0            0                  4                    4         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_3'     }    {'detached' }     {'SW3' }        {'det'}         0.03         0.03          0            0                  5                    5         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_4'     }    {'detached' }     {'SW4' }        {'det'}         0.03         0.03          0            0                  6                    6         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_5'     }    {'detached' }     {'SW5' }        {'det'}         0.03         0.03          0            0                  7                    7         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_6'     }    {'detached' }     {'SW6' }        {'det'}         0.03         0.03          0            0                  8                    8         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_7'     }    {'detached' }     {'SW7' }        {'det'}         0.03         0.03          0            0                  9                    9         
+        14         {'L2_fault_family_prior_ignorance'}    {'F_sw_8'     }    {'detached' }     {'SW8' }        {'det'}         0.03         0.03          0            0                 10                   10         
+

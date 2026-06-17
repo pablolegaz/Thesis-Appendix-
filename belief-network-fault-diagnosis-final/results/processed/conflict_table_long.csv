@@ -1,0 +1,15 @@
+scenario_id,level,empty_set_mass
+7,L0_complete,0.9204
+7,L1_local_prior_ignorance,0.005
+7,L2_fault_family_prior_ignorance,0.0
+8,L0_complete,0.95914
+8,L1_local_prior_ignorance,0.17281
+8,L2_fault_family_prior_ignorance,0.0846
+11,L0_complete,0.68251
+11,L1_local_prior_ignorance,0.08435
+11,L2_fault_family_prior_ignorance,0.08435
+14,L0_complete,0.99525
+14,L1_local_prior_ignorance,0.0
+14,L2_fault_family_prior_ignorance,0.0
+15,L4_combined_incompleteness,0.0
+16,L4_combined_incompleteness,0.0846

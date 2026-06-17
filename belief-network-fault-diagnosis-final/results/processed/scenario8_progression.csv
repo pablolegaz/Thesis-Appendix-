@@ -1,0 +1,7 @@
+level,bfm_var,belief,plausibility,width,empty_set_mass
+L0_complete,SW3,0.60729,0.60729,0,0.95914
+L0_complete,C3,0.40486,0.40486,0,0.95914
+L1_local_prior_ignorance,SW3,0.0,1.0,1,0.17281
+L1_local_prior_ignorance,C3,0.0,1.0,1,0.17281
+L2_fault_family_prior_ignorance,SW3,0.0,1.0,1,0.0846
+L2_fault_family_prior_ignorance,C3,0.0,1.0,1,0.0846
